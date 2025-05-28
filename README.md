@@ -31,4 +31,4 @@ Este programa em C implementa uma árvore de decisão simples para ajudar a deci
 
 2. Execute o programa, por exemplo:
 ```bash
-./arvore_decisao.c
+./arvore_decisao
