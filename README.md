@@ -28,3 +28,7 @@ Este programa em C implementa uma árvore de decisão simples para ajudar a deci
 1. Compile o código com um compilador C, por exemplo:
    ```bash
    gcc -o arvore_decisao arvore_decisao.c
+
+2. Execute o programa, por exemplo:
+```bash
+./arvore_decisao.c
