@@ -31,6 +31,8 @@ GitHub: [Link do GitHub](https://github.com/Luiz-06)
 - **Alanda**  
 GitHub: [Link do GitHub](https://github.com/Alanda13)
 
+- **Pedro Victor**  
+GitHub: [Link do GitHub](https://github.com/PedroVenanci0)
 ---
 
 ## Como usar
