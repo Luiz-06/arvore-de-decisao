@@ -23,6 +23,16 @@ Este programa em C implementa uma árvore de decisão simples para ajudar a deci
 
 ---
 
+## Colaboradores
+
+- **Luiz Felipe**  
+GitHub: [Link do GitHub](https://github.com/Luiz-06)
+
+- **Alanda**  
+GitHub: [Link do GitHub](https://github.com/Alanda13)
+
+---
+
 ## Como usar
 
 1. Compile o código com um compilador C, por exemplo:
@@ -32,11 +42,3 @@ Este programa em C implementa uma árvore de decisão simples para ajudar a deci
 2. Execute o programa, por exemplo:
 ```bash
 ./arvore_decisao
-
-## Colaboradores
-
-- **Luiz Felipe**  
-  GitHub: [Link do GitHub](https://github.com/Luiz-06)
-
-- **Pedro Vitor**  
-  GitHub: [Link do GitHub](https://github.com/PedroVenanci0)
